@@ -1,6 +1,10 @@
-﻿# EclipSePay — Mídias
+# EclipSePay — Mídias
 
 Links permanentes para usar em embeds do Discord, bots e sites.
+
+Formato do link: `https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/<pasta>/<arquivo>`
+
+Pastas: `marca/`, `sellers/`, `embeds/`, `posts/` e `motions/`.
 
 ## marca
 
@@ -29,3 +33,6 @@ Links permanentes para usar em embeds do Discord, bots e sites.
 - [sellers-embed.gif](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/sellers-embed.gif)
 - [ticket-aberto.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/ticket-aberto.png)
 
+## posts
+
+## motions
