@@ -9,6 +9,7 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/` e `motions/`.
 ## marca
 
 - [eclipsepay-discord-convite-v2.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/marca/eclipsepay-discord-convite-v2.png)
+- [logo_comfundo.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/marca/logo_comfundo.png)
 - [logo_lua.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/marca/logo_lua.png)
 - [logo_semfundo.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/marca/logo_semfundo.png)
 
