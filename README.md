@@ -30,7 +30,9 @@ Pastas: `marca/`, `sellers/`, `embeds/`, `posts/`, `motions/` e `emoji/`.
 - [embed_imagem_landing.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/embed_imagem_landing.png)
 - [faixa-faq.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/faixa-faq.png)
 - [faixa-redes.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/faixa-redes.png)
+- [faixa-rotas.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/faixa-rotas.png)
 - [faixa-suporte.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/faixa-suporte.png)
+- [rotas-basica-avancada.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/rotas-basica-avancada.png)
 - [sellers-embed.gif](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/sellers-embed.gif)
 - [ticket-aberto.png](https://raw.githubusercontent.com/Lotus9024/eclipsepay-midias/main/embeds/ticket-aberto.png)
 
